@@ -1,0 +1,7 @@
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
